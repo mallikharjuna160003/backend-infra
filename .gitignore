@@ -4,3 +4,6 @@ terraform.tfstate
 terraform.tfstate.backup
 test.py
 .terraform/
+.terraform.lock.hcl
+allfiles.txt
+bigfiles.txt
