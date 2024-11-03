@@ -3,3 +3,4 @@ holdsecrets.txt
 terraform.tfstate
 terraform.tfstate.backup
 test.py
+.terraform
