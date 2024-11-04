@@ -130,8 +130,8 @@ docker exec -it --user root jenkins bash
 aws configure
 AWS Access Key ID [None]: <access-key-generated-from-aws-console>
 AWS Secret Access Key [None]: <token-generated-from-aws-console>
-Default region name [AKIAXYSX5JZBXLHRSV54]: <region>
-Default output format [LzMrv8cWblEEq+igjyZ/ma44b+UBIjJlxyS2V/OB]: json
+Default region name [<access-key-generated-from-aws-console>]: <region>
+Default output format [<token-generated-from-aws-console>]: json
 ```
 
 
